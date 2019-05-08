@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <Folder>
+        <name>gz_2010_us_040_00_500k</name>
+        <Schema name="gz_2010_us_040_00_500k" id="gz_2010_us_040_00_500k">
+            <SimpleField name="Name" type="string"></SimpleField>
+            <SimpleField name="Description" type="string"></SimpleField>
+            <SimpleField name="GEO_ID" type="string"></SimpleField>
+            <SimpleField name="STATE" type="string"></SimpleField>
+            <SimpleField name="NAME" type="string"></SimpleField>
+            <SimpleField name="LSAD" type="string"></SimpleField>
+            <SimpleField name="CENSUSAREA" type="float"></SimpleField>
+        </Schema>
+
+      </Folder>
+</Document>
+</kml>
