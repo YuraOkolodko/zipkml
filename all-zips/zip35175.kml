@@ -11,6 +11,9 @@
     <name>cb_2016_us_zcta510_500k</name>
     <visibility>1</visibility>
     <Style id="KMLStyler">
+        <BalloonStyle>
+            <displayMode>hide</displayMode>
+        </BalloonStyle>
       <IconStyle>
         <scale>0.8</scale>
       </IconStyle>
